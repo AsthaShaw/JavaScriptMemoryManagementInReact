@@ -1,1 +1,5 @@
 export {default as PageWrapper} from './PageWrapper' 
+export {default as CodeSegment} from './CodeSegment' 
+export {default as Stack} from './Stack' 
+export {default as Heap} from './Heap' 
+export {default as InputSegment} from './InputSegment' 
