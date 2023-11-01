@@ -1,0 +1,15 @@
+.box {
+    width: 400px;
+    height: 400px;
+    background-color: pink;
+    border:1px solid black;
+    border-radius:10px;
+    margin-top: 0.8rem;
+    position: absolute;
+    left:150px;
+}
+
+.code-list {
+    min-width: 50%;
+    list-style: none;
+}
